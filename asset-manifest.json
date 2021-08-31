@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/chuck-jokes/static/css/main.d2d4ba31.chunk.css",
-    "main.js": "/chuck-jokes/static/js/main.f5f66a36.chunk.js",
-    "main.js.map": "/chuck-jokes/static/js/main.f5f66a36.chunk.js.map",
+    "main.css": "/chuck-jokes/static/css/main.7423c2d8.chunk.css",
+    "main.js": "/chuck-jokes/static/js/main.0e67ebc7.chunk.js",
+    "main.js.map": "/chuck-jokes/static/js/main.0e67ebc7.chunk.js.map",
     "runtime-main.js": "/chuck-jokes/static/js/runtime-main.3595ebf5.js",
     "runtime-main.js.map": "/chuck-jokes/static/js/runtime-main.3595ebf5.js.map",
-    "static/js/2.86d859e6.chunk.js": "/chuck-jokes/static/js/2.86d859e6.chunk.js",
-    "static/js/2.86d859e6.chunk.js.map": "/chuck-jokes/static/js/2.86d859e6.chunk.js.map",
+    "static/js/2.70d8d494.chunk.js": "/chuck-jokes/static/js/2.70d8d494.chunk.js",
+    "static/js/2.70d8d494.chunk.js.map": "/chuck-jokes/static/js/2.70d8d494.chunk.js.map",
     "static/js/3.48006f8f.chunk.js": "/chuck-jokes/static/js/3.48006f8f.chunk.js",
     "static/js/3.48006f8f.chunk.js.map": "/chuck-jokes/static/js/3.48006f8f.chunk.js.map",
     "index.html": "/chuck-jokes/index.html",
-    "static/css/main.d2d4ba31.chunk.css.map": "/chuck-jokes/static/css/main.d2d4ba31.chunk.css.map",
-    "static/js/2.86d859e6.chunk.js.LICENSE.txt": "/chuck-jokes/static/js/2.86d859e6.chunk.js.LICENSE.txt"
+    "static/css/main.7423c2d8.chunk.css.map": "/chuck-jokes/static/css/main.7423c2d8.chunk.css.map",
+    "static/js/2.70d8d494.chunk.js.LICENSE.txt": "/chuck-jokes/static/js/2.70d8d494.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3595ebf5.js",
-    "static/js/2.86d859e6.chunk.js",
-    "static/css/main.d2d4ba31.chunk.css",
-    "static/js/main.f5f66a36.chunk.js"
+    "static/js/2.70d8d494.chunk.js",
+    "static/css/main.7423c2d8.chunk.css",
+    "static/js/main.0e67ebc7.chunk.js"
   ]
 }
